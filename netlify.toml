@@ -1,6 +1,7 @@
 [build]
-  command = "npm install && cd apps/web && npm run build"
-  publish = "apps/web/.next"
+  base = "apps/web"
+  command = "npm run build"
+  # Let Netlify Next.js runtime automatically set the publish folder (.next)
 
 [build.environment]
   NODE_VERSION = "20"
