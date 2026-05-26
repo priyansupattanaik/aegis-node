@@ -142,34 +142,10 @@ This bypasses the PowerShell function alias entirely.
 ### Fail-Open Design
 If the Netlify API is unreachable (network issues), AegisNode defaults to **allowing** the install (fail-open), so legitimate development is never blocked by network outages. The local blocklist cache always runs first and is offline-capable.
 
-## Deployment
-
-### Netlify (Web + API)
-```toml
-# netlify.toml is preconfigured in the root
-# Deploy via: netlify deploy --prod
-```
 
 Set your Netlify URL in the CLI:
 ```powershell
-$env:AEGISNODE_API_URL = "https://your-site.netlify.app/api/verify"
-```
-
-## Development
-
-```powershell
-# Install all deps
-npm install  # in packages/cli
-npm install  # in apps/web
-
-# Build CLI
-cd packages/cli && npm run build
-
-# Run web dev server
-cd apps/web && npm run dev
-
-# Build web for production
-cd apps/web && npm run build
+$env:AEGISNODE_API_URL = "https://npm-aegisnode.netlify.app/api/verify"
 ```
 
 ## License
