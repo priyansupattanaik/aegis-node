@@ -16,7 +16,7 @@ import fetch from 'node-fetch';
 // ─── Constants ────────────────────────────────────────────────────────────────
 
 const BLOCKLIST_URL =
-  'https://raw.githubusercontent.com/your-username/aegisnode/main/blocklist.json';
+  'https://raw.githubusercontent.com/priyansupattanaik/aegis-node/main/blocklist.json';
 
 const CACHE_TTL_MS = 24 * 60 * 60 * 1000; // 24 hours
 

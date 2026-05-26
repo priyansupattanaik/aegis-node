@@ -14,8 +14,7 @@ import fetch from 'node-fetch';
 
 // Replace with your actual deployed Netlify domain before publishing
 const NETLIFY_API_URL =
-  process.env['AEGISNODE_API_URL'] ||
-  'https://aegisnode.netlify.app/api/verify';
+  'https://npm-aegisnode.netlify.app/api/verify';
 
 const API_TIMEOUT_MS = 8000;
 
