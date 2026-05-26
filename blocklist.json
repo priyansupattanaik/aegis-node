@@ -1,0 +1,106 @@
+{
+  "known_malicious": [
+    {
+      "name": "crossenv",
+      "reason": "Typosquat of cross-env - known malware, steals env vars",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "node-opencv",
+      "reason": "Abandoned package with known RCE vulnerability",
+      "severity": "HIGH"
+    },
+    {
+      "name": "nodemailer-js",
+      "reason": "Typosquat of nodemailer - credential harvester",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "mongose",
+      "reason": "Typosquat of mongoose - data exfiltration",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "expresss",
+      "reason": "Typosquat of express - known malware",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "lodash.js",
+      "reason": "Typosquat of lodash - contains backdoor",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "axois",
+      "reason": "Typosquat of axios - known credential thief",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "babelcli",
+      "reason": "Typosquat of babel-cli - known malware",
+      "severity": "HIGH"
+    },
+    {
+      "name": "react-dom.js",
+      "reason": "Typosquat of react-dom - malicious package",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "event-stream",
+      "reason": "Supply chain attack - cryptominer injected",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "flatmap-stream",
+      "reason": "Malicious dependency of event-stream attack",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "eslint-scope",
+      "reason": "Compromised version 3.7.2 - credential stealer",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "getcookies",
+      "reason": "Cookie harvesting malware",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "bootstrap-sass",
+      "reason": "Compromised - remote code execution backdoor",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "electron-native-notify",
+      "reason": "Malicious - cryptominer payload",
+      "severity": "HIGH"
+    },
+    {
+      "name": "rc",
+      "reason": "Compromised - arbitrary code execution",
+      "severity": "HIGH"
+    },
+    {
+      "name": "ua-parser-js",
+      "reason": "Compromised - cryptominer and credential stealer",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "coa",
+      "reason": "Compromised - malicious payload injected",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "colors",
+      "reason": "Sabotaged by maintainer - infinite loop payload",
+      "severity": "HIGH"
+    },
+    {
+      "name": "faker",
+      "reason": "Sabotaged by maintainer - known malicious version",
+      "severity": "HIGH"
+    }
+  ],
+  "last_updated": "2026-05-26T00:00:00Z",
+  "version": "1.0.0"
+}
