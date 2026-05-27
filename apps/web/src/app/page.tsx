@@ -549,7 +549,7 @@ export default function HomePage() {
           </div>
 
           <div className="space-y-4">
-            <InstallStep n={1} cmd="npm install -g aegisnode" label="Install globally via npm" />
+            <InstallStep n={1} cmd="npm install -g aegisnode-cli" label="Install globally via npm" />
             <InstallStep n={2} cmd="aegisnode init" label="Inject shell hooks + download blocklist" note="Requires terminal restart" />
             <InstallStep n={3} cmd="# Close this PowerShell window and open a new one" label="Restart PowerShell" />
             <InstallStep n={4} cmd="aegisnode status" label="Verify protection is active" />

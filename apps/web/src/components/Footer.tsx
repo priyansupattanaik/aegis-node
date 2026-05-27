@@ -45,7 +45,7 @@ export default function Footer() {
             <div className="space-y-3 col-span-2 sm:col-span-1">
               <p className="text-xs font-bold text-white uppercase tracking-widest mb-4">Links</p>
               <a href="https://github.com/priyansupattanaik/aegis-node" target="_blank" rel="noopener noreferrer" className="block hover:text-white transition-colors focus:outline-none focus-visible:text-blue-400">GitHub</a>
-              <a href="https://www.npmjs.com/package/aegisnode" target="_blank" rel="noopener noreferrer" className="block hover:text-white transition-colors focus:outline-none focus-visible:text-blue-400">npm Package</a>
+              <a href="https://www.npmjs.com/package/aegisnode-cli" target="_blank" rel="noopener noreferrer" className="block hover:text-white transition-colors focus:outline-none focus-visible:text-blue-400">npm Package</a>
               <a href="https://github.com/priyansupattanaik/aegis-node/issues" target="_blank" rel="noopener noreferrer" className="block hover:text-white transition-colors focus:outline-none focus-visible:text-blue-400">Report Issue</a>
             </div>
           </div>
