@@ -1,6 +1,6 @@
 {
   "name": "aegisnode-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Windows security middleware CLI that intercepts, analyzes, and blocks malicious npm packages from AI coding agents",
   "main": "dist/index.js",
   "bin": {
