@@ -1080324,8 +1080324,13 @@
       "name": "cloud-baileys",
       "reason": "SUPPLY_CHAIN_MALWARE_OSV",
       "severity": "CRITICAL"
+    },
+    {
+      "name": "@library-wide/library-shell",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
     }
   ],
-  "last_updated": "2026-10-10T04:17:35.200Z",
+  "last_updated": "2026-10-11T03:57:03.383Z",
   "version": "1.0.0"
 }
