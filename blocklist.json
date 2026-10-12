@@ -1080329,8 +1080329,13 @@
       "name": "@library-wide/library-shell",
       "reason": "SUPPLY_CHAIN_MALWARE_OSV",
       "severity": "CRITICAL"
+    },
+    {
+      "name": "react-dropzone-v4",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
     }
   ],
-  "last_updated": "2026-10-11T03:57:03.383Z",
+  "last_updated": "2026-10-12T04:17:41.822Z",
   "version": "1.0.0"
 }
