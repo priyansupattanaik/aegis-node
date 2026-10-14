@@ -1080669,8 +1080669,78 @@
       "name": "@yudzxml/baileys",
       "reason": "SUPPLY_CHAIN_MALWARE_OSV",
       "severity": "CRITICAL"
+    },
+    {
+      "name": "gemini-computer-use",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "brass-common",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "@chatest/baileys",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "yoodan-github-single-ver-pkg",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "opencode2",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "opencode2-darwin-arm64",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "opencode2-darwin-x64",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "opencode2-linux-arm64",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "opencode2-linux-arm64-musl",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "opencode2-linux-x64",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "opencode2-linux-x64-musl",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "opencode2-windows-arm64",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "opencode2-windows-x64",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "@kre64/hello-npm-test",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
     }
   ],
-  "last_updated": "2026-10-13T05:26:46.447Z",
+  "last_updated": "2026-10-14T03:30:01.813Z",
   "version": "1.0.0"
 }
