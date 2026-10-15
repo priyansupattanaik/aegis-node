@@ -1080739,8 +1080739,23 @@
       "name": "@kre64/hello-npm-test",
       "reason": "SUPPLY_CHAIN_MALWARE_OSV",
       "severity": "CRITICAL"
+    },
+    {
+      "name": "eth-react-provider",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "babel-polyfill-plugin-corejs2",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "@xxxfnbs21/hello-demo",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
     }
   ],
-  "last_updated": "2026-10-14T03:30:01.813Z",
+  "last_updated": "2026-10-15T03:09:58.198Z",
   "version": "1.0.0"
 }
