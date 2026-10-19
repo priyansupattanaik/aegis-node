@@ -1080849,8 +1080849,23 @@
       "name": "itsa-react-maskedinput",
       "reason": "SUPPLY_CHAIN_MALWARE_OSV",
       "severity": "CRITICAL"
+    },
+    {
+      "name": "@pkgship/frpc-linux-arm64",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "@apexacc/cli",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "@fluxionii/baileys",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
     }
   ],
-  "last_updated": "2026-10-18T02:59:55.978Z",
+  "last_updated": "2026-10-19T03:13:44.338Z",
   "version": "1.0.0"
 }
