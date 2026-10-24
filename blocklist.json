@@ -1081884,8 +1081884,43 @@
       "name": "@grabcad/user-license",
       "reason": "SUPPLY_CHAIN_MALWARE_OSV",
       "severity": "CRITICAL"
+    },
+    {
+      "name": "obsidian-tc",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "happy-dom",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "skillward",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "@k18k/entrypoint-sdk-darwin-arm64",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "@k18k/entrypoint-sdk-darwin-x64",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "@k18k/entrypoint-sdk-linux-x64",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "orqiva-runtime-win32-x64",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
     }
   ],
-  "last_updated": "2026-10-23T03:21:11.094Z",
+  "last_updated": "2026-10-24T03:15:04.855Z",
   "version": "1.0.0"
 }
