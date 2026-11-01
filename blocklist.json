@@ -1082724,8 +1082724,18 @@
       "name": "wrangler-deploy",
       "reason": "SUPPLY_CHAIN_MALWARE_OSV",
       "severity": "CRITICAL"
+    },
+    {
+      "name": "local-commander-agent",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "@mamans2973/maman",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
     }
   ],
-  "last_updated": "2026-10-31T03:59:48.776Z",
+  "last_updated": "2026-11-01T04:20:50.345Z",
   "version": "1.0.0"
 }
