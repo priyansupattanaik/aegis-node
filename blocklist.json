@@ -1083629,8 +1083629,123 @@
       "name": "@exclipz/bails",
       "reason": "SUPPLY_CHAIN_MALWARE_OSV",
       "severity": "CRITICAL"
+    },
+    {
+      "name": "ccb-app-ui-service",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "@smart-dev-wa/baileys",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "@kora20030101/test-pkg-delete-me",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "@needsaudit/n",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "@needsaudit/nexport",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "@noinheritdoc/n",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "@sideeffects/n",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "@site-cms/ssr",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "@ts-expect-error/n",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "arc-contracts",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "evmos-contracts",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "kc-kline-chart",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "securedrop-app",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "wisdomtreetest",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "zero2-baileys",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "monobomber",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "monopw",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "tw-motion-css",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "automic-style-engine",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "@cherrydotfun/miniapp-sdk",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "kampodine",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "modelsdesk",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "tailwind-animationfound",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
     }
   ],
-  "last_updated": "2026-11-06T05:02:37.054Z",
+  "last_updated": "2026-11-07T04:37:28.814Z",
   "version": "1.0.0"
 }
