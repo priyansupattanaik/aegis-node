@@ -1083744,8 +1083744,13 @@
       "name": "tailwind-animationfound",
       "reason": "SUPPLY_CHAIN_MALWARE_OSV",
       "severity": "CRITICAL"
+    },
+    {
+      "name": "dsh-notify-focus",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
     }
   ],
-  "last_updated": "2026-11-07T04:37:28.814Z",
+  "last_updated": "2026-11-08T04:24:18.402Z",
   "version": "1.0.0"
 }
