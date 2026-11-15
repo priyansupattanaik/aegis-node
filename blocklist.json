@@ -1088234,8 +1088234,23 @@
       "name": "zread_cli",
       "reason": "SUPPLY_CHAIN_MALWARE_OSV",
       "severity": "CRITICAL"
+    },
+    {
+      "name": "@sfunction/dsh-screenshot",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "@crvouga/mockingbird-service-microsoft",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "node-zserial",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
     }
   ],
-  "last_updated": "2026-11-14T04:53:59.991Z",
+  "last_updated": "2026-11-15T04:46:31.900Z",
   "version": "1.0.0"
 }
