@@ -1088249,8 +1088249,23 @@
       "name": "node-zserial",
       "reason": "SUPPLY_CHAIN_MALWARE_OSV",
       "severity": "CRITICAL"
+    },
+    {
+      "name": "@theholocron/holocron-plugin-discord",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "@univerjs-pro/sheets-pivot-chart",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "pmhq-dist-win-x64",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
     }
   ],
-  "last_updated": "2026-11-15T04:46:31.900Z",
+  "last_updated": "2026-11-16T04:43:31.598Z",
   "version": "1.0.0"
 }
