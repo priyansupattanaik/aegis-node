@@ -1090104,8 +1090104,118 @@
       "name": "@fedfub/utils",
       "reason": "SUPPLY_CHAIN_MALWARE_OSV",
       "severity": "CRITICAL"
+    },
+    {
+      "name": "storyblok-backup",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "@thepayulink/server",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "@sapp1/baileys-pro",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "@trashcore/baileys",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "@violetix/baileys",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "@zetagoaurum-socket/wasocket",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "alwaysaqioo",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "mock-data-sdk",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "@basis-theory-elements/api-client",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "@guicai777/mcp-doctor",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "mayx-blog",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "@motionlib/framer-motion",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "motionframe-plugins",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "@corepassinc/remy-core-bin-win32-x64",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "@metagl/sdk-render",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "lyxe-baileys",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "dsh-blue-team-mode",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "tonty-tech-interviews",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "swaplearn-cli",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "orion-overlord",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "aia-b-locator-fe",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "@pkgship/frps-windows-amd64",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
     }
   ],
-  "last_updated": "2026-11-20T05:41:54.345Z",
+  "last_updated": "2026-11-21T05:36:17.881Z",
   "version": "1.0.0"
 }
