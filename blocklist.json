@@ -1090214,8 +1090214,13 @@
       "name": "@pkgship/frps-windows-amd64",
       "reason": "SUPPLY_CHAIN_MALWARE_OSV",
       "severity": "CRITICAL"
+    },
+    {
+      "name": "@wppconnect-team/wppconnect",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
     }
   ],
-  "last_updated": "2026-11-21T05:36:17.881Z",
+  "last_updated": "2026-11-22T05:00:42.943Z",
   "version": "1.0.0"
 }
