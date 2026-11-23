@@ -1090219,8 +1090219,18 @@
       "name": "@wppconnect-team/wppconnect",
       "reason": "SUPPLY_CHAIN_MALWARE_OSV",
       "severity": "CRITICAL"
+    },
+    {
+      "name": "@leadstack/crm-connect",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "cti-defense",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
     }
   ],
-  "last_updated": "2026-11-22T05:00:42.943Z",
+  "last_updated": "2026-11-23T05:43:57.568Z",
   "version": "1.0.0"
 }
