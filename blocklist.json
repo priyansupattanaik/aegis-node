@@ -1091404,8 +1091404,3153 @@
       "name": "onlinegdb",
       "reason": "SUPPLY_CHAIN_MALWARE_OSV",
       "severity": "CRITICAL"
+    },
+    {
+      "name": "inject.dll",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "cyepoc",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "danum",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "dependency-confusion-poc777",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "discord-clone",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "docs-ux",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "eff-minifeapp",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "elkeid",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "ens-austt",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "eslint-config-goldeneye",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "eslint-config-onyx-ui-base",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "eslint-config-ui-core-base",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "eslint-plugin-woocommerce",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "eth-austt",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "evocater_libnpmpublish",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "evocater_libpnpmpublic",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "evocateur-libnpmpublish",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "evocateur_libnpmpublic",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "evocateur_libnpmpublisheing",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "evocateur_libnpmpublisher",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "facet-mmleditor",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "gradio-ui",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "hosted-buttons",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "hwidrefresh",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "i18-utils",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "iconpark",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "iherb-react-environment",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "ilogtail",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "internallib_v495",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "itminepack101",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "js-austt",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "jsmaterialx",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "kali-dywoman",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "keli-dywomen",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "ksdsjdksjmncnjsdmsnd",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "kskjdksjdks",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "curlix",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "cusip",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "custom-proxy",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "custom-video-daily-react",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "cw-mock-api",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "cyber.dhs.gov",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "cz-react-ui-library",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "daily-app-message",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "daily-electron",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "darkhat-hard-to-find-package-do-not-require-it",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "datamodel.core.dm",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "dcrawjs",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "delivery-promise",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "dell_esg_theme",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "delphire-io-portal",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "dep-c",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "dep_mal2",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "dependabot-updater-action",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "dependdency",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "dependency-poc-for-testing-only",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "dependency-poc-for-testing-only-aswfsfghsssbx",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "dependencyconfusion2",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "dependencyconfusion5",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "descuyid",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "dessid",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "devedge",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "devoxx-demo-confusion",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "devoxx-test",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "discord-bott",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "discord-selfbot.js-v13",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "discord-v14-selfbot",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "discord.js-builders",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "discord.js-dmallfriends-v11",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "discord.js-fetch",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "discord.js-invites",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "discord.js-sbdmall",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "discord.js-seflbot-v13",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "discordjs-fetcher-v13",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "discordjs-invites",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "djinnsec",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "djs-fetchers",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "djs-fetchers-v14",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "dlw.scbase.staticsite",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "docusaurus-2-facebook-template",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "dogbong",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "domains-uglify",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "doneida2",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "dragonpulse-config",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "dreamhunt-google-nc",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "dreamhunt-google-nc-tc",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "dreamhunt-google-nc-tc-dc",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "dreamhunt-google-nc-tc1",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "dreamhunt-google-nc-tc2",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "driver1-testingbluehk-01",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "driverless-acquisition-blue-auth-token-validator",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "duxton-web",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "easier-clients",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "easyfetchgoogle",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "ebay-translation-react-widget-server",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "ecare-react",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "echarts-website",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "echarts-www",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "eckoplugin",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "editor-languages",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "eeforemon",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "efx-angular-components",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "eg-affiliates-common",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "eg-affiliates-common-test",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "egs-trusted-domains",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "egstore-ctx",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "egstore-query",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "egstore-suspense",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "electron-meeting-sdk-test",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "embeddingdistributorlocal",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "en-conduit-electron",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "en-conduit-electron-auth",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "en-conduit-electron-renderer",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "en-conduit-electron-worker",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "en-features-rollout",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "en-node-gyp-build",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "eos-react-components",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "epc-core-error-handling",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "epc-menu-header-poc",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "epc-onboarding-web",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "epc-staticpages-web",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "epc-teste-lykos",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "epic-lit-media-query",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "es7.object.get-own-property-descriptors",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "es7.symbol.async-iterator",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "eslint-config-bayzat",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "eslint-config-bsee",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "eslint-config-distribution",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "eslint-config-lf-eslint",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "eslint-config-promo",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "eslint-config-vdkweb",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "eslint-config-weblint",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "eslint-plugin-datadog",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "eslint-plugin-plentific",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "eslint-plugin-shein-soc-raw",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "eslint-plugin-zammad",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "eth-chai",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "ethersproject",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "eu.netherlands3d.gltfast",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "eu.tsystems.mms.tic.testerra.bup",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "eu.tsystems.mms.tic.testerra.plugins.azuredevops.annotation.azuretest",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "eu.tsystems.mms.tic.testerra.plugins.azuredevops.tests.playgroundtests",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "eu.tsystems.mms.tic.testframework.pageobjects.page",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "eureka2-write-ui",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "evil911",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "example-helpers",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "ext-dom",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "ez-get-url-params",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "faceplate-docs",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "falcor-datasource-chainer",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "falcor-hapi-demo",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "fallen-fallen-web",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "github-artifact-exporter-core",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "github-runner-lambda-syncer",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "glob10",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "gltf-blender-io-tests",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "google-build-slack",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "googlechecktcp12",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "googleindexthisplease",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "gp-assets",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "gp-colors",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "gp-comps",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "gp-constants",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "grablink-web-sdk",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "grafana__slate-react",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "graffiti-alley-spray-cans",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "grammarly-desktop",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "graphql-optics",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "gravityforms",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "grpc-web-devtoolssss",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "gruf-demo",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "gtm-js",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "guardian-service",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "gulp2-sd-test",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "h_test1",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "hackboysoso",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "hacker101",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "hackerone2222",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "hackersnav",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "hackity",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "havas-worldwide",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "hearsay-design-system",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "heliotrope",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "hello-demo-lib",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "hellodependency001",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "hellodependency01",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "hellodependency1",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "hermione-login-plugin",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "hexmex-tesstt",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "hexojs",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "highchartsexport",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "hiiiiiiiiiiiiiiiiiiiiii",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "hilton_cms",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "historic-rates-line-chart",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "hoots-lib",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "http-api-lookup",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "hub-natixis",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "hugo-cloudflare-docs",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "hw-popup",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "hw-tooltip",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "hw-webpack-config",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "hyperion-form",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "icomm-mobile",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "identity-web",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "ie3-ihm-lib-ngx",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "ifood-bank-account-validator-redux-form-8",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "in.juspay.dotp",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "incom-css",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "indeedblog",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "index-template-lol",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "influx-query-builder",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "infraestructure-svp",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "injected-curltest",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "inside-design-stencil",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "installping",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "instant-plugin",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "instreacts",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "internalpackage-ncctest",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "ions-package",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "isp-orion-theme",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "istanbul_test",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "item-shop-data-client",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "j4-test",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "j6-test",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "jai-surya-varman78",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "jetpack-custom-fonts",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "jewel-case",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "jhgjgdfsdasvbrtyrdfwewqreyrfvbykuyoyosdsdfdhuytrx",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "jhgjgdfsdasvbrtyrdfwewqreyrfvbykuyoyosdsdfdhuytrxasdadadasdasd",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "jhgjgdfsdasvbrtyrdfwewqreyrfvbykuyoyosdsdfdhuytrxasdadadasdasdadasdasdasdasd",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "jhgjgdfsdasvbrtyrdfwewqreyrfvbykuyoyosdsdfdhuytrxasdadadasdasdadasdasdasdasdtest",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "jordan-amir",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "jqplot-custom",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "jquery-easing-original",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "jquery-impromtu",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "jquery-ui-custom",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "jquery-validation-utils",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "jquerydownloadnew",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "jqueryoffline",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "jrmis",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "jrmisa",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "jsnewspaper",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "justgiving",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "jwt-angular11-client",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "karma-console-reporter",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "kendo-react-messages",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "kibana-github-actions",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "knowledge-admin",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "koi-grid",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "kol-demo",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "ksbackgroundtask",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "kuaishou-mmu-web-component",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "kwai-pymk",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "kwaishop-radar",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "lab-npm-package",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "lampwirecompete",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "language-repo",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "language-selector-content",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "lastlasttrialllll",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "launchdarkly-cpp-internal",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "launchdarkly-cpp-server",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "layui.js",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "legacy-web3-extension",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "leo-sf-symbols",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "level-legacy",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "lib-comdig",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "libx-amount",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "lifetime-agent",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "lifi-contracts",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "line-configs",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "link-ui-i19n",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "link-ui-i20n",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "link-ui-i21n",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "link-ui-i22n",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "link-ui-i23n",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "link-ui-i24n",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "linkinbio-web-components",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "linkis-website",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "esdjiw",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "cwoeuor",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "deeperscan-nft",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "dep_malc",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "dhoeiwoe",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "directlinetoactionsongooglelib",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "djs14-logger",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "do-not-install-ecb1029ca",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "dp-bpsc-tiktok-music",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "dt-app112",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "dwoeoer",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "eighster",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "elastic-otel-node",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "elements-homefeeds",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "env-debug-logger",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "esbuild-plugin-global-externals",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "esse-praesentium-eligendi",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "eum-veritatis-placeat",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "eventstream-codec",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "eventstream-serde-browser",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "eventstream-serde-config-resolver",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "eventstream-serde-universal",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "ewueirit",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "example-gtm",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "executor-http",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "export-gltf",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "exporter-trace-otlp-http",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "exporter-trace-otlp-proto",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "extension-blockquote",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "extension-bold",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "extension-bubble-menu",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "extension-bullet-list",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "extension-document",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "extension-dropcursor",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "extension-floating-menu",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "extension-gapcursor",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "extension-hard-break",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "extension-heading",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "extension-horizontal-rule",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "extension-image",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "extension-paragraph",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "github-loader",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "glimmerer",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "gp-analytics",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "gql-tag-operations",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "graphiler",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "gwoeurt",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "hackeryajemaaa",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "handlebars-helper-attrs",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "harthat-cookie",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "hioebieor",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "hiwoeusd",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "husheor",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "hwieuw",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "hwoeiw",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "hwoiers",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "hyuimsoue",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "iarna",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "illum-perferendis-consectetur",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "import-wasm-static",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "incendiumrocks",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "instrumentation-express",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "instrumentation-grpc",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "instrumentation-ioredis",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "instrumentation-pg",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "isomorphic-random-example",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "jiopeyrie",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "js-rust-grpc-quotes",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "jsdevtools",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "jwieo",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "killrido",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "kowieo",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "laloumpackk",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "laweuf",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "lib-dynamodb",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "lib-storage",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "lido-mev-monitoring",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "lineluders",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "linux-loong64",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "linux-ppc64",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "ctmjobs",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "datlowe-font",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "dropbox-admin",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "dropbox-analytics",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "dropbox-api-client",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "dropbox-auth",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "dropbox-checkout",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "dropbox-cloud",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "dropbox-event",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "dropbox-gateway",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "dropbox-internal",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "dw-api-mock2",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "editions-dev-2k-variants",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "engineering-blog",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "epam-cdisc-electron",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "epicagames-analytics",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "epicagames-api",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "epicagames-api-client",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "epicagames-auth",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "epicagames-cache",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "epicagames-checkout",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "epicagames-cloud",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "epicagames-connect",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "epicagames-database",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "epicagames-db",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "epicagames-sdk",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "epicagames-service",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "epicagames-sync",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "epicagames-test",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "eslint-plugin-wpvip",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "explat-client",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "explat-client-react-helpers",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "godaddy-connect",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "godaddy-database",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "godaddy-oauth",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "godaddy-parser",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "godaddy-payment",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "google-db",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "google-event",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "google-gateway",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "google-internal",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "google-jira",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "google-logger",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "google-model",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "google-sdk",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "google-sync",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "google-test",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "google-tests",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "google-user",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "happychat-connection",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "hexoffsectest",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "iberia-database",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "iberia-db",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "iberia-event",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "iberia-gateway",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "iberia-internal",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "iberia-jira",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "iberia-logger",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "iberia-model",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "iberia-oauth",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "iberia-tests",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "iberia-tools",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "iberia-user",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "iberia-utils",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "ing-shared-navigation",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "ingest-demo",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "instacart-admin",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "instacart-analytics",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "instacart-api",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "instacart-api-client",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "instacart-auth",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "instacart-cache",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "instacart-checkout",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "instacart-cloud",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "instacart-connect",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "instacart-database",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "instacart-db",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "instacart-service",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "instacart-sync",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "instacart-test",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "instacart-tests",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "instacart-tools",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "leafygreen-ui",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "linkedin-db",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "linkedin-gateway",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "linkedin-internal",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "linkedin-jira",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "linkedin-logger",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "linkedin-model",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "linkedin-parser",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "linkedin-payment",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "linkedin-sdk",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "linkedin-service",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "linkedin-sync",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "linkedin-test",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "donateweb",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "dt-adoptionoverview-extension",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "ethers-providerz",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "hibt-dev",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "hibt-internal",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "hibt-main",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "hibt-test",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "dhruva_dashboard",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "editor-inscriptions",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "eslint-config-bfx-ui",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "https-agen-chii",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "jios",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "jobaline",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "liquity2",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "cyber-chindows",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "d360-frontend",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "d360-ui",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "ddok-escapes",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "deepseek-r1-webgpu",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "dependsalot",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "dependyman",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "dsjdsdksfndfdfiodsfdsfd1212",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "emittery-up",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "eslint-ts-view",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "eslint-validation-cli",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "ethersjs3-wallet",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "ethrs.js",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "etoro-cordova-prove-mobileauth",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "etoro-plaid-widget",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "etoro-provema",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "graphkitx",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "https-proxy-utils",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "int-lib-config",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "intel-ai-assistant-ai",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "itx-zara-web-common",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "key-transparency",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "kicl-gl-provisioningapp-ui",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "kikimbappe",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "lienkible",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "glovers-acquisition",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "gs-pwm-ooba",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "gs-uitk-promise-utils",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "hello-user-test-npm-com-test",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "hypernova-simple-example",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "cua-server",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "custom-breadcrumbs",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "customer-preference",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "d-aliased1",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "d-aliased2",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "e2e-test-server",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "emitteryhubs",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "enrichable-markdown-render",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "eslint-v92",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "eslint-v9232",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "ethereum-toolkit-1",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "example-b2b",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "example-custom-cart-method",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "example-express-web",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "example-fastify-web",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "example-infinite-scroll",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "example-legacy-customer-account-flow",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "example-partytown",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "example-third-party-queries-caching",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "express-xmlrequest",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "expvariantassignmentsdk",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "fake-package-name",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "howto-gallery-betas",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "html-webpack-plugin-4",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "hub-state-api",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "indigoeln",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "inicontohrcekak",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "internal-vscode-extension",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "jnakfnksnkankknknksngksgksnksgksgksk",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "kotlin-wasm-package-lock-project",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "kotlin-wasm-package-lock-project-test",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "dayotest21938",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "dayotestgraphite",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "detect-web-app",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "echats-js",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "eithernet",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "eithernet-test",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "eithernet-test-fixtures",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "eithernet-test-fixtures-test",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "epxresser",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "eslint-plugin-ethereumjs",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "example-ssr",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "http-message-signatures-extension",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "humhub",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "img-region-select-app",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "internal-runtime",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "internal-runtime-test",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "internal-test-utils-test",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "ketcher-react-app",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "discord-easy-commands-v2",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "esb-core-helpers",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "eslint-plugin-facebook",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "i2g-rosetta",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "internal_acc_pkg",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "kucoin-universal-sdk-example",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "disabled_native_dep",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "dndattachmentt",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "emailphotogallery",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "ent-profile-template",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "essentialss",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "ethers-js-core",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "gjsdgjgjt6",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "gulp-prestashop",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "hushlockler",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "intercom-gtm-js",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "jsonwedjoken",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "just-elements",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "keypair-encryption-utils",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "jupyter-binding",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "lint-staged-custom",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "keeper-secrets-manager",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "kiota-typescript",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "dealer-portal",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "deneme-renklerim",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "dependency-confusion-poc-ay",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "dgxeon-sokets",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "discord.js-dmall-friends-v11",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "elgato-webhid-jaas-demo",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "epic-ue-darkly",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "epic-ue-i18n",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "expense-management",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "githubpagessites",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "google-fonts-to-wordpress-collection",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "hoppscotch-sh-admin",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "hubspottoolsmenu",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "ig-grunt-file-list",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "ig-grunt-release",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "ig-phantomjs-binaries",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "io-connect-24",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "jaeger-ui-monorepo",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "jquery.pstrength",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "left-pad-browser",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "levitate-check-imports",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "twilio-functions",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "multi-acct",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "es6-migrator",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "eth-pino",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "techportal",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "test-in-one",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "leaflet-opencage-geocoding",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "lil-swisgom-hlepers",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "unifi-credential-server",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "hardhat-base",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "exodus-firestore-synchronize",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "zeal-util-hooks",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "zeal-utils",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "n8n-nodes-moonlet-helpers",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "hardhat-plus",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "@c1-ease/commerce",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "@c1-ease/autoloan",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "@c1-ease/bank",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "@c1-ease/card",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "@c1-ease/core",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "@neo938/css-motion-kit",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "bcdt",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "glbl-agent",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "nem-libray",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "web3-mev-error-decoder",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "apache-httpclient3",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "apache-httpclient4",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "create_meme_pumpfun",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "grammy-key",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "brightlineelectr",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "brightlineelectr2",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "brightlineelectr3",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "brightlineelectr4",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "create-ai-agent-setup",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "@c1-ease/recovery",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "dsh-locator",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "signals-embed-pro",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "signals-embed-sss",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
+    },
+    {
+      "name": "@omnirush-ai/cli-win32-x64",
+      "reason": "SUPPLY_CHAIN_MALWARE_OSV",
+      "severity": "CRITICAL"
     }
   ],
-  "last_updated": "2026-11-25T06:57:43.798Z",
+  "last_updated": "2026-11-26T06:48:34.313Z",
   "version": "1.0.0"
 }
